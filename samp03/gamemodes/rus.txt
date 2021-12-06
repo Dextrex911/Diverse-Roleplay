@@ -1,0 +1,16 @@
+../gamemodes/Build.pwn(24206) : ïðåäóïðåæäåíèå 208: ôóíêöèÿ ñ òèïîâûì ðåçóëüòàòîì èñïîëüçóåòñÿ ïåðåä îáúÿâëåíèåì, èíèöèèðîâàíà ïåðåîáðàáîòêà
+../gamemodes/Build.pwn(11255) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "key" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+../gamemodes/Build.pwn(11255) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "key"
+../gamemodes/VehicleSystem.pwn(12) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â cmd_v
+../gamemodes/Commands.pwn(14648) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â cmd_search
+../gamemodes/Commands.pwn(934) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â cmd_give
+../gamemodes/Commands.pwn(8779) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â cmd_house
+../gamemodes/Commands.pwn(12136) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â cmd_biz
+../gamemodes/Commands.pwn(14868) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â cmd_map
+../gamemodes/Commands.pwn(14769) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â cmd_abiz
+../gamemodes/Commands.pwn(15275) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â cmd_weapon
+Äëÿ îòêëþ÷åíèÿ âûâîäà ðåêóðñèé: #pragma disablerecursion
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Ïðåäóïðåæäåíèé:10.
